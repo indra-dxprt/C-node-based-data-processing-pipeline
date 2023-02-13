@@ -2,6 +2,8 @@
 Demo project for C++17
 ## Description
 The goal is to design and implement a minimal node-based data processing pipeline. We only consider the fix pipeline below, which has two inputs, with one binary and one unary operator. The operators are applied on the inputs to compute the result. The implementation is done with c++17. CMake as build system.
+![Capture1](https://user-images.githubusercontent.com/63399555/218378421-b0e3c917-d1cd-49fd-91e7-57e0e1d5bc64.PNG)
+
 ## Part A:
 Inputs
 * User Data A: [float] - fix values
